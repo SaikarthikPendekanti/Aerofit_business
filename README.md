@@ -1,13 +1,13 @@
-📌 Project Overview
+<h1>📌 Project Overview</h1>
 This project focuses on analyzing customer data for Aerofit, a leading fitness equipment brand, to understand customer behavior, purchasing patterns, and product preferences.
 The goal is to derive actionable business insights using data analytics techniques and statistical analysis.
 
-🛠 Tools & Technologies Used
-Python
-Pandas & NumPy – Data manipulation
-Matplotlib & Seaborn – Data visualization
-Statistics & Probability – Business insights
-Jupyter Notebook / Google Colab
+<h1>🛠 Tools & Technologies Used</h1>
+*Python
+*Pandas & NumPy – Data manipulation
+*Matplotlib & Seaborn – Data visualization
+*Statistics & Probability – Business insights
+*Jupyter Notebook / Google Colab
 
 🔍 Exploratory Data Analysis (EDA)
 Dataset structure and summary statistics
